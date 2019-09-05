@@ -1,6 +1,14 @@
 # FIFA PLAYERS ANALYSIS
 
-These repo was created to analyse the data from the whole bunch of FIFA 19 players, including soccer skills and attributes that probably could show us what a real person needs to be a good soccer player.
+
+Every year since 1994, the company EA Sports lunchs a videogame called FIFA where simulates the teams and the players of the real world.
+
+Year by year the videogame has become more and more realistic, and that is the idea of this analysis. this repo was created to analyse the data from the whole bunch of FIFA 19 players, including their soccer skills and attributes trying to answer these questions: 
+- Which attributes are the most attributes important for being forward, middle, defender or goalkeeper?
+- What is the correlation between age and performance as a player?
+- Skill moves and weak foot are important to be a good player?
+
+If the videogame becomes more an more realistic every year, maybe in a couple of years with an analysis like this we could find the key attributes to train harder on real players to make then better in their performance on the field.
 
 
 ## INSTALLATIONS
@@ -19,6 +27,9 @@ jupyter notebook
 ```
 Then you can go to this url: "http://localhost:8888/tree" with your browser and enter to the "Fifa players analysis.ipynb" file
 and then you can run the cells of the Notebook and play with them in order to find new cools things from the data.
+
+## MEDIUM
+Check the blog post created with this analysis here "https://medium.com/how-to-excel-as-soccer-player-according-to-fifa-19/how-to-excel-as-soccer-player-according-to-fifa-19-aa5943be2d0e"
 
 ## Licensing, Authors, Acknowledgements
 
